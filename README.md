@@ -19,14 +19,13 @@ Pembagian Tugas:
 3. M.Arvin Saskoro = Merakit Rangkaian dan Membuat Platform Rangkaian
 
 Komponen Yang Digunakan:
-1.	NodeMCU x 2
-2.	Breadboard x 2
+1.	NodeMCU x 1
+2.	Breadboard x 1
 3.	Kabel Jumper Male - Male x 16
 4.	Buzzer x 1
-5.	LED x 1
-6.	Servo x 1
-7.	Resistor x 1
-8.	Sensor Ultra Sonic x 1
+5.	Servo x 1
+6.	Resistor x 1
+7.	Sensor Ultra Sonic x 1
 
 
 #
@@ -36,11 +35,6 @@ Publisher:
 #
 ![publisher](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/7e2df8a5-06f2-4ded-8dc8-25c7a3b34fb3)
 #
-Subscriber:
-#
-![subscriber](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/a2fc732f-c7d3-4f91-8fdd-ea43dbfae55e)
-#
-
 
 #
 2. Rangkaian Fisik:
@@ -48,10 +42,6 @@ Subscriber:
 Publisher:
 #
 ![pub](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/2299cd87-070b-4ae0-bf4e-ef25edd7e23c)
-#
-Subscriber:
-#
-![subs](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/b7a0a505-448e-45bd-b0e9-da51b60325e7)
 #
 
 
