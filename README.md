@@ -24,7 +24,6 @@ Komponen Yang Digunakan:
 3.	Kabel Jumper Male - Male x 10
 4.	Kabel jumper Female – Female x3
 5.	Buzzer x 1
-6.	LED x 1
 7.	Servo x 1
 8.	Sensor Ultra Sonic x 1
 
